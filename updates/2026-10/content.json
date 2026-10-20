@@ -1,0 +1,2326 @@
+{
+  "en": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "More takes, more ideas",
+        "intro": "Keep separate recordings, pads and chops in each take. Play several takes together.",
+        "tips": [
+          [
+            "On bar",
+            "While another chop plays, PLAY waits for its next bar and starts this chop from the beginning."
+          ],
+          [
+            "",
+            "Press PLAY again to cancel the waiting start."
+          ],
+          [
+            "",
+            "On bar aligns the start, not the tempos. Match BPM yourself."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "A cleaner ending for your loop",
+        "intro": "Pad Recorder trims silence after STOP. If the sound ends between beats, Add silence offers to fill the gap to the next beat.",
+        "tips": [
+          [
+            "",
+            "The shaded tail shows how much is missing. Click Add silence to keep it."
+          ],
+          [
+            "",
+            "For a small overrun, choose Trim from the arrow menu."
+          ],
+          [
+            "",
+            "Works with the metronome off too. Nothing changes until you click."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Move any part of your chop",
+        "intro": "Edit inside Pad Recorder. Drag a selected piece into time; anything moved past the recording edge is trimmed.",
+        "tips": [
+          [
+            "Shift + click",
+            "Set the start, then click the end."
+          ],
+          [
+            "",
+            "Drag inside the selection to move it."
+          ],
+          [
+            "Delete / Backspace",
+            "Erase the selection without shifting other hits."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Stretch it into place",
+        "intro": "Zoom in for precise edits. Stretch a selected piece without changing its pitch; the rest stays in place.",
+        "tips": [
+          [
+            "Shift + drag",
+            "Stretch a selection edge."
+          ],
+          [
+            "⌘ / Alt",
+            "Move without snapping to the grid."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Undo the last region edit."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Move a pad’s whole slice",
+        "intro": "In Tab Recorder, drag inside a pad’s waveform region to move both edges together. Use the scissors in either recorder to trim the recording.",
+        "tips": [
+          [
+            "Space",
+            "Preview the CUT selection."
+          ],
+          [
+            "Enter",
+            "Apply CUT."
+          ],
+          [
+            "Esc",
+            "Cancel the edit."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Tap the tempo you hear",
+        "intro": "Click the BPM number in either recorder. Tap the button to the beat, or type a tempo directly.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Tap while the Tap BPM button is focused."
+          ],
+          [
+            "",
+            "Tab Recorder changes speed and pitch together."
+          ],
+          [
+            "",
+            "Pad Recorder changes tempo while keeping pitch."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Your files, your drum kit",
+        "intro": "Load your own sounds into pads. Imported pads can play together, so kicks, snares and hats can overlap.",
+        "tips": [
+          [
+            "⋮",
+            "Open a pad menu to load or copy a sound."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Play your pads."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Extra pads in horizontal view."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Keep the whole session",
+        "intro": "Close the popup and keep listening. Export all takes together, including their recordings, chops and pad sounds.",
+        "tips": [
+          [
+            "",
+            "Key estimates for recordings and finished chops."
+          ],
+          [
+            "",
+            "Faster pads. Natural pitch by default; held looping starts off."
+          ],
+          [
+            "",
+            "Record more into a take, or use Reset all tabs for a fresh session."
+          ]
+        ]
+      }
+    ],
+    "next": "Next",
+    "back": "Back",
+    "pause": "Pause animation",
+    "play": "Play animation",
+    "badge": "NEW PATCH!!!",
+    "news": "What’s new",
+    "demo": "In the editor",
+    "feedback": "Got an idea for the next update?",
+    "privacy": "Privacy policy",
+    "restart": "Start again"
+  },
+  "es": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Más tomas, más ideas",
+        "intro": "Cada toma tiene sus grabaciones, pads y chops. Reproduce varias tomas a la vez.",
+        "tips": [
+          [
+            "Al compás",
+            "Mientras suena otro chop, PLAY espera a su siguiente compás e inicia este chop desde el principio."
+          ],
+          [
+            "",
+            "Pulsa PLAY otra vez para cancelar el inicio pendiente."
+          ],
+          [
+            "",
+            "«Al compás» alinea el inicio, no los tempos. Iguala los BPM manualmente."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Un final más preciso para tu loop",
+        "intro": "Pad Recorder recorta el silencio tras STOP. Si el sonido termina entre pulsos, «Silencio +… s» propone completar el final hasta el siguiente pulso.",
+        "tips": [
+          [
+            "",
+            "La zona rayada muestra lo que falta. Pulsa «Silencio +… s» para añadirlo."
+          ],
+          [
+            "",
+            "Para un pequeño exceso, elige «Recortar … s» en el menú de la flecha."
+          ],
+          [
+            "",
+            "Funciona también sin metrónomo. Nada cambia hasta que pulses."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Mueve partes de tu chop",
+        "intro": "Edita dentro de Pad Recorder. Mueve una selección para ajustarla al ritmo; lo que salga de la grabación se recorta.",
+        "tips": [
+          [
+            "Shift + clic",
+            "Marca el inicio y luego haz clic en el final."
+          ],
+          [
+            "",
+            "Arrastra el interior de la selección para moverla."
+          ],
+          [
+            "Delete / Backspace",
+            "Borra la selección sin desplazar otros golpes."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Estira hasta encajar",
+        "intro": "Acerca la onda para editar con precisión. Estira una selección sin cambiar su tono; el resto no se mueve.",
+        "tips": [
+          [
+            "Shift + arrastrar",
+            "Estira un borde de la selección."
+          ],
+          [
+            "⌘ / Alt",
+            "Mueve sin ajustar a la cuadrícula."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Deshaz la última edición de un fragmento."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Mueve el slice completo",
+        "intro": "En Tab Recorder, arrastra dentro de la región de un pad para mover ambos bordes juntos. Usa las tijeras de cualquiera de los dos grabadores para recortar.",
+        "tips": [
+          [
+            "Space",
+            "Escucha la selección de «CORTAR»."
+          ],
+          [
+            "Enter",
+            "Aplica «CORTAR»."
+          ],
+          [
+            "Esc",
+            "Cancela la edición."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Marca el tempo que escuchas",
+        "intro": "Pulsa el número BPM en cualquier grabador. Marca el ritmo con el botón o introduce un tempo.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Marca el ritmo con el botón «Marcar BPM» seleccionado."
+          ],
+          [
+            "",
+            "Tab Recorder cambia la velocidad y el tono juntos."
+          ],
+          [
+            "",
+            "Pad Recorder cambia el tempo conservando el tono."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Tus archivos, tu batería",
+        "intro": "Carga tus sonidos en los pads. Los pads importados suenan juntos: bombos, cajas y hi-hats pueden superponerse.",
+        "tips": [
+          [
+            "⋮",
+            "Abre el menú de un pad para cargar o copiar un sonido."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Toca los pads."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Pads extra en la vista horizontal."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Conserva toda la sesión",
+        "intro": "Cierra la ventana y sigue escuchando. Exporta todas las tomas juntas, con sus grabaciones, chops y sonidos de pads.",
+        "tips": [
+          [
+            "",
+            "Estimación de tonalidad en grabaciones y chops terminados."
+          ],
+          [
+            "",
+            "Pads más rápidos. Tono Natural por defecto; loop al mantener desactivado."
+          ],
+          [
+            "",
+            "Añade más audio a una toma o usa «Restablecer todas las pestañas» para empezar de cero."
+          ]
+        ]
+      }
+    ],
+    "next": "Siguiente",
+    "back": "Atrás",
+    "pause": "Pausar animación",
+    "play": "Reproducir animación",
+    "badge": "¡¡¡NUEVA ACTUALIZACIÓN!!!",
+    "news": "Novedades",
+    "demo": "En el editor",
+    "feedback": "¿Ideas para la próxima actualización?",
+    "privacy": "Política de privacidad",
+    "restart": "Volver al inicio"
+  },
+  "es_419": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Más tomas, más ideas",
+        "intro": "Cada toma tiene sus grabaciones, pads y chops. Reproduce varias tomas a la vez.",
+        "tips": [
+          [
+            "Al compás",
+            "Mientras suena otro chop, PLAY espera a su siguiente compás e inicia este chop desde el principio."
+          ],
+          [
+            "",
+            "Pulsa PLAY otra vez para cancelar el inicio pendiente."
+          ],
+          [
+            "",
+            "«Al compás» alinea el inicio, no los tempos. Iguala los BPM manualmente."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Un final más preciso para tu loop",
+        "intro": "Pad Recorder recorta el silencio tras STOP. Si el sonido termina entre pulsos, «Silencio +… s» propone completar el final hasta el siguiente pulso.",
+        "tips": [
+          [
+            "",
+            "La zona rayada muestra lo que falta. Pulsa «Silencio +… s» para añadirlo."
+          ],
+          [
+            "",
+            "Para un pequeño exceso, elige «Recortar … s» en el menú de la flecha."
+          ],
+          [
+            "",
+            "Funciona también sin metrónomo. Nada cambia hasta que pulses."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Mueve partes de tu chop",
+        "intro": "Edita dentro de Pad Recorder. Mueve una selección para ajustarla al ritmo; lo que salga de la grabación se recorta.",
+        "tips": [
+          [
+            "Shift + clic",
+            "Marca el inicio y luego haz clic en el final."
+          ],
+          [
+            "",
+            "Arrastra el interior de la selección para moverla."
+          ],
+          [
+            "Delete / Backspace",
+            "Borra la selección sin desplazar otros golpes."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Estira hasta encajar",
+        "intro": "Acerca la onda para editar con precisión. Estira una selección sin cambiar su tono; el resto no se mueve.",
+        "tips": [
+          [
+            "Shift + arrastrar",
+            "Estira un borde de la selección."
+          ],
+          [
+            "⌘ / Alt",
+            "Mueve sin ajustar a la cuadrícula."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Deshaz la última edición de un fragmento."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Mueve el slice completo",
+        "intro": "En Tab Recorder, arrastra dentro de la región de un pad para mover ambos bordes juntos. Usa las tijeras de cualquiera de los dos grabadores para recortar.",
+        "tips": [
+          [
+            "Space",
+            "Escucha la selección de «CORTAR»."
+          ],
+          [
+            "Enter",
+            "Aplica «CORTAR»."
+          ],
+          [
+            "Esc",
+            "Cancela la edición."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Marca el tempo que escuchas",
+        "intro": "Pulsa el número BPM en cualquier grabador. Marca el ritmo con el botón o introduce un tempo.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Marca el ritmo con el botón «Marcar BPM» seleccionado."
+          ],
+          [
+            "",
+            "Tab Recorder cambia la velocidad y el tono juntos."
+          ],
+          [
+            "",
+            "Pad Recorder cambia el tempo conservando el tono."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Tus archivos, tu batería",
+        "intro": "Carga tus sonidos en los pads. Los pads importados suenan juntos: bombos, cajas y hi-hats pueden superponerse.",
+        "tips": [
+          [
+            "⋮",
+            "Abre el menú de un pad para cargar o copiar un sonido."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Toca los pads."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Pads extra en la vista horizontal."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Conserva toda la sesión",
+        "intro": "Cierra la ventana y sigue escuchando. Exporta todas las tomas juntas, con sus grabaciones, chops y sonidos de pads.",
+        "tips": [
+          [
+            "",
+            "Estimación de tonalidad en grabaciones y chops terminados."
+          ],
+          [
+            "",
+            "Pads más rápidos. Tono Natural por defecto; loop al mantener desactivado."
+          ],
+          [
+            "",
+            "Añade más audio a una toma o usa «Restablecer todas las pestañas» para empezar de cero."
+          ]
+        ]
+      }
+    ],
+    "next": "Siguiente",
+    "back": "Atrás",
+    "pause": "Pausar animación",
+    "play": "Reproducir animación",
+    "badge": "¡¡¡NUEVA ACTUALIZACIÓN!!!",
+    "news": "Novedades",
+    "demo": "En el editor",
+    "feedback": "¿Ideas para la próxima actualización?",
+    "privacy": "Política de privacidad",
+    "restart": "Volver al inicio"
+  },
+  "pt_BR": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Mais takes, mais ideias",
+        "intro": "Cada take tem suas gravações, pads e chops. Toque vários takes ao mesmo tempo.",
+        "tips": [
+          [
+            "No compasso",
+            "Enquanto outro chop toca, PLAY espera o próximo compasso dele e inicia este chop do começo."
+          ],
+          [
+            "",
+            "Pressione PLAY novamente para cancelar o início pendente."
+          ],
+          [
+            "",
+            "«No compasso» alinha a entrada, não os tempos. Iguale os BPM manualmente."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Um final mais certo para seu loop",
+        "intro": "Pad Recorder corta o silêncio após STOP. Se o som termina entre batidas, «Silêncio +… s» oferece completar o final até a próxima batida.",
+        "tips": [
+          [
+            "",
+            "A área listrada mostra o que falta. Clique em «Silêncio +… s» para adicioná-la."
+          ],
+          [
+            "",
+            "Para um pequeno excesso, escolha «Cortar … s» no menu da seta."
+          ],
+          [
+            "",
+            "Funciona também sem metrônomo. Nada muda até você clicar."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Mova partes do seu chop",
+        "intro": "Edite no Pad Recorder. Arraste a seleção para ajustar ao ritmo; o que passar da borda da gravação é cortado.",
+        "tips": [
+          [
+            "Shift + clique",
+            "Marque o início e clique no final."
+          ],
+          [
+            "",
+            "Arraste dentro da seleção para movê-la."
+          ],
+          [
+            "Delete / Backspace",
+            "Apague a seleção sem deslocar outras batidas."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Estique até encaixar",
+        "intro": "Aproxime a onda para editar com precisão. Estique a seleção sem mudar o tom; o resto fica no lugar.",
+        "tips": [
+          [
+            "Shift + arrastar",
+            "Estique uma borda da seleção."
+          ],
+          [
+            "⌘ / Alt",
+            "Mova sem encaixar na grade."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Desfaça a última edição de um trecho."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Mova o slice inteiro",
+        "intro": "No Tab Recorder, arraste dentro da região de um pad para mover as duas bordas juntas. Use a tesoura de qualquer gravador para cortar a gravação.",
+        "tips": [
+          [
+            "Space",
+            "Ouça a seleção do «CORTAR»."
+          ],
+          [
+            "Enter",
+            "Aplique «CORTAR»."
+          ],
+          [
+            "Esc",
+            "Cancele a edição."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Marque o tempo que você ouve",
+        "intro": "Clique no número BPM de qualquer gravador. Marque o ritmo no botão ou digite um tempo.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Marque o ritmo com o botão «Marcar BPM» selecionado."
+          ],
+          [
+            "",
+            "Tab Recorder muda velocidade e tom juntos."
+          ],
+          [
+            "",
+            "Pad Recorder muda o tempo preservando o tom."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Seus arquivos, sua bateria",
+        "intro": "Carregue seus sons nos pads. Pads importados tocam juntos: bumbo, caixa e chimbal podem se sobrepor.",
+        "tips": [
+          [
+            "⋮",
+            "Abra o menu de um pad para carregar ou copiar um som."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Toque seus pads."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Pads extras na visualização horizontal."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Guarde a sessão inteira",
+        "intro": "Feche a janela e continue ouvindo. Exporte todos os takes juntos, com gravações, chops e sons dos pads.",
+        "tips": [
+          [
+            "",
+            "Estimativa de tonalidade em gravações e chops prontos."
+          ],
+          [
+            "",
+            "Pads mais rápidos. Natural por padrão; loop ao segurar desativado."
+          ],
+          [
+            "",
+            "Grave mais na mesma tomada ou use «Redefinir todas as abas» para começar do zero."
+          ]
+        ]
+      }
+    ],
+    "next": "Próximo",
+    "back": "Voltar",
+    "pause": "Pausar animação",
+    "play": "Reproduzir animação",
+    "badge": "NOVA ATUALIZAÇÃO!!!",
+    "news": "Novidades",
+    "demo": "No editor",
+    "feedback": "Uma ideia para a próxima atualização?",
+    "privacy": "Política de privacidade",
+    "restart": "Recomeçar"
+  },
+  "pt_PT": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Mais takes, mais ideias",
+        "intro": "Cada take guarda as suas gravações, pads e chops. Reproduz vários takes ao mesmo tempo.",
+        "tips": [
+          [
+            "No compasso",
+            "Enquanto outro chop toca, PLAY espera pelo compasso seguinte e inicia este chop do princípio."
+          ],
+          [
+            "",
+            "Carrega novamente em PLAY para cancelar o início pendente."
+          ],
+          [
+            "",
+            "«No compasso» alinha a entrada, não os andamentos. Iguala os BPM manualmente."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Um final certo para o teu loop",
+        "intro": "Pad Recorder corta o silêncio após STOP. Se o som termina entre batidas, «Silêncio +… s» propõe completar o final até à batida seguinte.",
+        "tips": [
+          [
+            "",
+            "A área tracejada mostra o que falta. Clica em «Silêncio +… s» para a adicionar."
+          ],
+          [
+            "",
+            "Para um pequeno excesso, escolhe «Cortar … s» no menu da seta."
+          ],
+          [
+            "",
+            "Também funciona sem metrónomo. Nada muda até clicares."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Move partes do teu chop",
+        "intro": "Edita no Pad Recorder. Arrasta a seleção para acertar o ritmo; o que ultrapassar o limite da gravação é cortado.",
+        "tips": [
+          [
+            "Shift + clique",
+            "Marca o início e clica no fim."
+          ],
+          [
+            "",
+            "Arrasta dentro da seleção para a mover."
+          ],
+          [
+            "Delete / Backspace",
+            "Apaga a seleção sem deslocar as outras batidas."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Estica até encaixar",
+        "intro": "Amplia a onda para editar com precisão. Estica a seleção sem mudar o tom; o resto fica no lugar.",
+        "tips": [
+          [
+            "Shift + arrastar",
+            "Estica uma margem da seleção."
+          ],
+          [
+            "⌘ / Alt",
+            "Move sem prender à grelha."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Anula a última edição de um trecho."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Move o slice inteiro",
+        "intro": "No Tab Recorder, arrasta dentro da região de um pad para mover ambas as margens. Usa a tesoura de qualquer gravador para cortar a gravação.",
+        "tips": [
+          [
+            "Space",
+            "Ouve a seleção do «CORTAR»."
+          ],
+          [
+            "Enter",
+            "Aplica «CORTAR»."
+          ],
+          [
+            "Esc",
+            "Cancela a edição."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Marca o andamento que ouves",
+        "intro": "Clica no número BPM de qualquer gravador. Marca o ritmo no botão ou escreve o andamento.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Marca o ritmo com o botão «Marcar BPM» selecionado."
+          ],
+          [
+            "",
+            "Tab Recorder muda a velocidade e o tom em conjunto."
+          ],
+          [
+            "",
+            "Pad Recorder muda o andamento mantendo o tom."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Os teus ficheiros, a tua bateria",
+        "intro": "Carrega os teus sons nos pads. Os pads importados podem tocar em simultâneo: bombo, tarola e pratos de choque.",
+        "tips": [
+          [
+            "⋮",
+            "Abre o menu de um pad para carregar ou copiar um som."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Toca os teus pads."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Pads extra na vista horizontal."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Guarda a sessão inteira",
+        "intro": "Fecha a janela e continua a ouvir. Exporta todos os takes juntos, com gravações, chops e sons dos pads.",
+        "tips": [
+          [
+            "",
+            "Estimativa da tonalidade de gravações e chops prontos."
+          ],
+          [
+            "",
+            "Pads mais rápidos. Natural por predefinição; loop ao manter premido desativado."
+          ],
+          [
+            "",
+            "Grava mais no mesmo take ou usa «Repor todos os separadores» para começar do zero."
+          ]
+        ]
+      }
+    ],
+    "next": "Seguinte",
+    "back": "Voltar",
+    "pause": "Pausar animação",
+    "play": "Reproduzir animação",
+    "badge": "NOVA ATUALIZAÇÃO!!!",
+    "news": "Novidades",
+    "demo": "No editor",
+    "feedback": "Uma ideia para a próxima atualização?",
+    "privacy": "Política de privacidade",
+    "restart": "Recomeçar"
+  },
+  "fr": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Plus de prises, plus d’idées",
+        "intro": "Chaque prise garde ses enregistrements, pads et chops. Jouez plusieurs prises ensemble.",
+        "tips": [
+          [
+            "En mesure",
+            "Pendant qu’un autre chop joue, «LIRE» attend sa prochaine mesure et lance ce chop depuis le début."
+          ],
+          [
+            "",
+            "Appuie à nouveau sur «LIRE» pour annuler le départ en attente."
+          ],
+          [
+            "",
+            "«En mesure» aligne le départ, pas les tempos. Règle les BPM toi-même."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Une fin de boucle plus nette",
+        "intro": "Après STOP, Pad Recorder coupe le silence. Si le son finit entre deux temps, «Silence +… s» propose de compléter jusqu’au temps suivant.",
+        "tips": [
+          [
+            "",
+            "La zone hachurée montre ce qui manque. Clique sur «Silence +… s» pour l’ajouter."
+          ],
+          [
+            "",
+            "Pour un léger dépassement, choisis «Retirer … s» dans le menu fléché."
+          ],
+          [
+            "",
+            "Fonctionne aussi sans métronome. Rien ne change avant ton clic."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Déplacez vos fragments",
+        "intro": "Éditez dans Pad Recorder. Déplacez une sélection pour la caler ; la partie hors de l’enregistrement est coupée.",
+        "tips": [
+          [
+            "Maj + clic",
+            "Marquez le début, puis cliquez sur la fin."
+          ],
+          [
+            "",
+            "Glissez dans la sélection pour la déplacer."
+          ],
+          [
+            "Delete / Backspace",
+            "Effacez la sélection sans déplacer les autres coups."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Étirez pour ajuster",
+        "intro": "Zoomez pour éditer avec précision. Étirez une sélection sans changer sa hauteur ; le reste ne bouge pas.",
+        "tips": [
+          [
+            "Maj + glisser",
+            "Étirez un bord de la sélection."
+          ],
+          [
+            "⌘ / Alt",
+            "Déplacez sans alignement sur la grille."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Annulez la dernière modification d’un fragment."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Déplace un slice entier",
+        "intro": "Dans Tab Recorder, fais glisser la région d’un pad pour déplacer ses deux bords ensemble. Les ciseaux de chaque enregistreur permettent de couper la prise.",
+        "tips": [
+          [
+            "Space",
+            "Écoutez la sélection «COUPER»."
+          ],
+          [
+            "Enter",
+            "Appliquez «COUPER»."
+          ],
+          [
+            "Esc",
+            "Annulez la modification."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Tape le tempo à l’oreille",
+        "intro": "Clique sur le nombre BPM d’un enregistreur. Tape le rythme sur le bouton ou saisis un tempo.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Tape le rythme quand le bouton «Taper le tempo» est sélectionné."
+          ],
+          [
+            "",
+            "Tab Recorder change la vitesse et la hauteur ensemble."
+          ],
+          [
+            "",
+            "Pad Recorder change le tempo sans changer la hauteur."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Vos fichiers, votre batterie",
+        "intro": "Chargez vos sons sur les pads. Les pads importés jouent ensemble : grosse caisse, caisse claire et charleston se superposent.",
+        "tips": [
+          [
+            "⋮",
+            "Ouvrez le menu d’un pad pour charger ou copier un son."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Jouez vos pads."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Pads supplémentaires en vue horizontale."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Gardez toute la session",
+        "intro": "Fermez la fenêtre et continuez à écouter. Exportez toutes les prises ensemble : enregistrements, chops et sons des pads.",
+        "tips": [
+          [
+            "",
+            "Estimation de tonalité des enregistrements et chops terminés."
+          ],
+          [
+            "",
+            "Pads plus rapides. Mode Natural par défaut ; boucle au maintien désactivée."
+          ],
+          [
+            "",
+            "Ajoute du son à une prise ou utilise «Réinitialiser tous les onglets» pour repartir de zéro."
+          ]
+        ]
+      }
+    ],
+    "next": "Suivant",
+    "back": "Retour",
+    "pause": "Mettre l’animation en pause",
+    "play": "Lire l’animation",
+    "badge": "NOUVELLE MISE À JOUR !!!",
+    "news": "Nouveautés",
+    "demo": "Dans l’éditeur",
+    "feedback": "Une idée pour la prochaine mise à jour ?",
+    "privacy": "Politique de confidentialité",
+    "restart": "Recommencer"
+  },
+  "de": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Mehr Takes, mehr Ideen",
+        "intro": "Jeder Take hat eigene Aufnahmen, Pads und Chops. Spiele mehrere Takes gleichzeitig ab.",
+        "tips": [
+          [
+            "Im Takt",
+            "Während ein anderer Chop läuft, wartet PLAY auf dessen nächsten Takt und startet diesen Chop von vorne."
+          ],
+          [
+            "",
+            "Drücke PLAY erneut, um den wartenden Start abzubrechen."
+          ],
+          [
+            "",
+            "«Im Takt» richtet den Start aus, nicht das Tempo. Gleiche die BPM selbst an."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Ein sauberer Loop-Abschluss",
+        "intro": "Pad Recorder entfernt nach STOP die Stille. Endet der Klang zwischen zwei Schlägen, ergänzt «Stille +… s» auf Wunsch bis zum nächsten Schlag.",
+        "tips": [
+          [
+            "",
+            "Die schraffierte Fläche zeigt den fehlenden Rest. Klicke zum Ergänzen auf «Stille +… s»."
+          ],
+          [
+            "",
+            "Bei einem kleinen Überhang wähle «… s abschneiden» im Pfeilmenü."
+          ],
+          [
+            "",
+            "Funktioniert auch ohne Metronom. Erst dein Klick verändert den Klang."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Verschiebe deine Ausschnitte",
+        "intro": "Bearbeite im Pad Recorder. Verschiebe einen Bereich ins Raster; was über den Aufnahmerand ragt, wird abgeschnitten.",
+        "tips": [
+          [
+            "Shift + Klick",
+            "Setze den Anfang und klicke dann auf das Ende."
+          ],
+          [
+            "",
+            "Ziehe im ausgewählten Bereich, um ihn zu verschieben."
+          ],
+          [
+            "Delete / Backspace",
+            "Lösche die Auswahl, ohne andere Schläge zu verschieben."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Dehne passend zum Takt",
+        "intro": "Zoome für präzise Änderungen hinein. Dehne die Auswahl ohne Tonhöhenänderung; der Rest bleibt an seiner Stelle.",
+        "tips": [
+          [
+            "Shift + Ziehen",
+            "Dehne eine Auswahlkante."
+          ],
+          [
+            "⌘ / Alt",
+            "Verschiebe ohne Einrasten am Raster."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Mache die letzte Bereichsänderung rückgängig."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Verschiebe den ganzen Slice",
+        "intro": "Ziehe im Tab Recorder innerhalb einer Pad-Region, um beide Grenzen gemeinsam zu verschieben. Mit der Schere schneidest du in beiden Recordern die Aufnahme zu.",
+        "tips": [
+          [
+            "Space",
+            "Höre die «SCHNEIDEN»-Auswahl vor."
+          ],
+          [
+            "Enter",
+            "Wende «SCHNEIDEN» an."
+          ],
+          [
+            "Esc",
+            "Brich die Bearbeitung ab."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Tippe das gehörte Tempo",
+        "intro": "Klicke in einem Recorder auf die BPM-Zahl. Tippe den Rhythmus auf der Taste oder gib ein Tempo ein.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Tippe, während die Taste «Tempo tippen» ausgewählt ist."
+          ],
+          [
+            "",
+            "Tab Recorder ändert Geschwindigkeit und Tonhöhe gemeinsam."
+          ],
+          [
+            "",
+            "Pad Recorder ändert das Tempo bei gleicher Tonhöhe."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Deine Dateien, dein Drumkit",
+        "intro": "Lade eigene Sounds auf die Pads. Importierte Pads spielen gleichzeitig: Kick, Snare und Hi-Hat können sich überlagern.",
+        "tips": [
+          [
+            "⋮",
+            "Öffne das Pad-Menü, um einen Sound zu laden oder zu kopieren."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Spiele deine Pads."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Zusätzliche Pads in der horizontalen Ansicht."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Behalte die ganze Session",
+        "intro": "Schließe das Popup und höre weiter. Exportiere alle Takes zusammen: Aufnahmen, Chops und Pad-Sounds.",
+        "tips": [
+          [
+            "",
+            "Tonartschätzung für Aufnahmen und fertige Chops."
+          ],
+          [
+            "",
+            "Schnellere Pads. Natural als Standard; Halte-Loop zunächst aus."
+          ],
+          [
+            "",
+            "Nimm mehr in einem Take auf oder starte mit «Alle Tabs zurücksetzen» eine leere Session."
+          ]
+        ]
+      }
+    ],
+    "next": "Weiter",
+    "back": "Zurück",
+    "pause": "Animation pausieren",
+    "play": "Animation abspielen",
+    "badge": "NEUES UPDATE!!!",
+    "news": "Neuigkeiten",
+    "demo": "Im Editor",
+    "feedback": "Eine Idee für das nächste Update?",
+    "privacy": "Datenschutzerklärung",
+    "restart": "Von vorne"
+  },
+  "it": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Più take, più idee",
+        "intro": "Ogni take ha registrazioni, pad e chop separati. Riproduci più take insieme.",
+        "tips": [
+          [
+            "A battuta",
+            "Mentre suona un altro chop, PLAY attende la sua prossima battuta e avvia questo chop dall’inizio."
+          ],
+          [
+            "",
+            "Premi di nuovo PLAY per annullare l’avvio in attesa."
+          ],
+          [
+            "",
+            "«A battuta» allinea l’inizio, non i tempi. Imposta gli stessi BPM manualmente."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Una fine più precisa per il loop",
+        "intro": "Pad Recorder taglia il silenzio dopo STOP. Se il suono finisce tra due battiti, «Silenzio +… s» propone di completare fino al battito successivo.",
+        "tips": [
+          [
+            "",
+            "La zona tratteggiata mostra quanto manca. Premi «Silenzio +… s» per aggiungerlo."
+          ],
+          [
+            "",
+            "Per un piccolo eccesso, scegli «Taglia … s» nel menu della freccia."
+          ],
+          [
+            "",
+            "Funziona anche senza metronomo. Nulla cambia finché non fai clic."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Sposta parti del tuo chop",
+        "intro": "Modifica nel Pad Recorder. Trascina la selezione per metterla a tempo; ciò che supera i bordi della registrazione viene tagliato.",
+        "tips": [
+          [
+            "Shift + clic",
+            "Segna l’inizio, poi fai clic sulla fine."
+          ],
+          [
+            "",
+            "Trascina dentro la selezione per spostarla."
+          ],
+          [
+            "Delete / Backspace",
+            "Cancella la selezione senza spostare gli altri colpi."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Allunga fino a farlo combaciare",
+        "intro": "Ingrandisci per modifiche precise. Allunga la selezione senza cambiarne il tono; il resto rimane fermo.",
+        "tips": [
+          [
+            "Shift + trascina",
+            "Allunga un bordo della selezione."
+          ],
+          [
+            "⌘ / Alt",
+            "Sposta senza aggancio alla griglia."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Annulla l’ultima modifica di un frammento."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Sposta l’intero slice",
+        "intro": "In Tab Recorder, trascina dentro la regione di un pad per spostare entrambi i bordi. Usa le forbici in entrambi i registratori per tagliare la registrazione.",
+        "tips": [
+          [
+            "Space",
+            "Ascolta la selezione «TAGLIA»."
+          ],
+          [
+            "Enter",
+            "Applica «TAGLIA»."
+          ],
+          [
+            "Esc",
+            "Annulla la modifica."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Batti il tempo che senti",
+        "intro": "Premi il numero BPM in un registratore. Batti il ritmo sul pulsante o inserisci un tempo.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Batti il ritmo quando è selezionato il pulsante «Batti il tempo»."
+          ],
+          [
+            "",
+            "Tab Recorder cambia insieme velocità e altezza."
+          ],
+          [
+            "",
+            "Pad Recorder cambia il tempo mantenendo l’altezza."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "I tuoi file, la tua batteria",
+        "intro": "Carica i tuoi suoni nei pad. I pad importati suonano insieme: cassa, rullante e hi-hat possono sovrapporsi.",
+        "tips": [
+          [
+            "⋮",
+            "Apri il menu di un pad per caricare o copiare un suono."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Suona i tuoi pad."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Pad aggiuntivi nella vista orizzontale."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Conserva tutta la sessione",
+        "intro": "Chiudi il popup e continua ad ascoltare. Esporta tutti i take insieme, con registrazioni, chop e suoni dei pad.",
+        "tips": [
+          [
+            "",
+            "Stima della tonalità di registrazioni e chop finiti."
+          ],
+          [
+            "",
+            "Pad più rapidi. Natural predefinito; loop tenendo premuto disattivato."
+          ],
+          [
+            "",
+            "Aggiungi audio a una take o usa «Reimposta tutte le schede» per ricominciare da zero."
+          ]
+        ]
+      }
+    ],
+    "next": "Avanti",
+    "back": "Indietro",
+    "pause": "Metti in pausa l’animazione",
+    "play": "Riproduci l’animazione",
+    "badge": "NUOVO AGGIORNAMENTO!!!",
+    "news": "Novità",
+    "demo": "Nell’editor",
+    "feedback": "Un’idea per il prossimo aggiornamento?",
+    "privacy": "Informativa sulla privacy",
+    "restart": "Ricomincia"
+  },
+  "pl": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Więcej ujęć, więcej pomysłów",
+        "intro": "Każde ujęcie ma własne nagrania, pady i chopy. Odtwarzaj kilka ujęć jednocześnie.",
+        "tips": [
+          [
+            "Od taktu",
+            "Gdy gra inny chop, «GRAJ» czeka na początek jego następnego taktu i uruchamia ten chop od początku."
+          ],
+          [
+            "",
+            "Naciśnij «GRAJ» ponownie, aby anulować oczekujący start."
+          ],
+          [
+            "",
+            "«Od taktu» wyrównuje start, nie tempo. Ustaw jednakowe BPM samodzielnie."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Równe zakończenie pętli",
+        "intro": "Pad Recorder usuwa ciszę po STOP. Gdy dźwięk kończy się między uderzeniami, «Cisza +… s» proponuje uzupełnienie do następnego uderzenia.",
+        "tips": [
+          [
+            "",
+            "Kreskowany obszar pokazuje brakującą część. Kliknij «Cisza +… s», aby ją dodać."
+          ],
+          [
+            "",
+            "Przy niewielkim nadmiarze wybierz «Przytnij … s» z menu ze strzałką."
+          ],
+          [
+            "",
+            "Działa też bez metronomu. Nic się nie zmieni, dopóki nie klikniesz."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Przesuwaj fragmenty chopa",
+        "intro": "Edytuj w Pad Recorder. Przeciągnij zaznaczenie, by wyrównać rytm; część poza granicą nagrania zostanie przycięta.",
+        "tips": [
+          [
+            "Shift + kliknięcie",
+            "Ustaw początek, potem kliknij koniec."
+          ],
+          [
+            "",
+            "Przeciągnij wnętrze zaznaczenia, aby je przesunąć."
+          ],
+          [
+            "Delete / Backspace",
+            "Usuń zaznaczenie bez przesuwania innych uderzeń."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Rozciągnij, aby dopasować",
+        "intro": "Powiększ falę dla precyzyjnych zmian. Rozciągnij zaznaczenie bez zmiany wysokości dźwięku; reszta zostaje na miejscu.",
+        "tips": [
+          [
+            "Shift + przeciąganie",
+            "Rozciągnij krawędź zaznaczenia."
+          ],
+          [
+            "⌘ / Alt",
+            "Przesuwaj bez przyciągania do siatki."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Cofnij ostatnią edycję fragmentu."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Przesuń cały slice",
+        "intro": "W Tab Recorder przeciągnij wnętrze regionu pada, aby przesunąć obie granice razem. Nożyczki w obu rejestratorach przycinają nagranie.",
+        "tips": [
+          [
+            "Space",
+            "Odsłuchaj zaznaczenie «PRZYTNIJ»."
+          ],
+          [
+            "Enter",
+            "Zastosuj «PRZYTNIJ»."
+          ],
+          [
+            "Esc",
+            "Anuluj edycję."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Wystukaj słyszane tempo",
+        "intro": "Kliknij liczbę BPM w dowolnym rejestratorze. Wystukaj rytm przyciskiem lub wpisz tempo.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Wystukuj rytm, gdy wybrany jest przycisk «Wybij tempo»."
+          ],
+          [
+            "",
+            "Tab Recorder zmienia szybkość i wysokość dźwięku razem."
+          ],
+          [
+            "",
+            "Pad Recorder zmienia tempo, zachowując wysokość dźwięku."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Twoje pliki, twoja perkusja",
+        "intro": "Wczytaj własne dźwięki na pady. Importowane pady grają jednocześnie: stopa, werbel i hi-hat mogą się nakładać.",
+        "tips": [
+          [
+            "⋮",
+            "Otwórz menu pada, aby wczytać lub skopiować dźwięk."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Graj na padach."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Dodatkowe pady w widoku poziomym."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Zachowaj całą sesję",
+        "intro": "Zamknij okno i słuchaj dalej. Eksportuj wszystkie ujęcia razem z nagraniami, chopami i dźwiękami padów.",
+        "tips": [
+          [
+            "",
+            "Szacowanie tonacji nagrań i gotowych chopów."
+          ],
+          [
+            "",
+            "Szybsze pady. Domyślny tryb Natural; pętla przy przytrzymaniu wyłączona."
+          ],
+          [
+            "",
+            "Dograj więcej do take’a lub użyj «Zresetuj wszystkie karty», aby zacząć od nowa."
+          ]
+        ]
+      }
+    ],
+    "next": "Dalej",
+    "back": "Wstecz",
+    "pause": "Wstrzymaj animację",
+    "play": "Odtwórz animację",
+    "badge": "NOWA AKTUALIZACJA!!!",
+    "news": "Nowości",
+    "demo": "W edytorze",
+    "feedback": "Pomysł na kolejną aktualizację?",
+    "privacy": "Polityka prywatności",
+    "restart": "Od początku"
+  },
+  "nl": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Meer takes, meer ideeën",
+        "intro": "Elke take heeft eigen opnames, pads en chops. Speel meerdere takes tegelijk af.",
+        "tips": [
+          [
+            "Op maat",
+            "Terwijl een andere chop speelt, wacht PLAY op de volgende maat en start deze chop vanaf het begin."
+          ],
+          [
+            "",
+            "Druk opnieuw op PLAY om de wachtende start te annuleren."
+          ],
+          [
+            "",
+            "«Op maat» lijnt de start uit, niet de tempo’s. Stel zelf dezelfde BPM in."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Een strakker einde voor je loop",
+        "intro": "Pad Recorder knipt stilte weg na STOP. Eindigt het geluid tussen tellen, dan stelt «Stilte +… s» voor het aan te vullen tot de volgende tel.",
+        "tips": [
+          [
+            "",
+            "Het gearceerde deel toont wat ontbreekt. Klik op «Stilte +… s» om het toe te voegen."
+          ],
+          [
+            "",
+            "Kies bij een klein overschot «… s afknippen» in het pijltjesmenu."
+          ],
+          [
+            "",
+            "Werkt ook zonder metronoom. Er verandert niets totdat je klikt."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Verplaats delen van je chop",
+        "intro": "Bewerk in Pad Recorder. Sleep een selectie op de maat; het deel buiten de opname wordt afgeknipt.",
+        "tips": [
+          [
+            "Shift + klik",
+            "Zet het begin en klik daarna op het einde."
+          ],
+          [
+            "",
+            "Sleep binnen de selectie om die te verplaatsen."
+          ],
+          [
+            "Delete / Backspace",
+            "Wis de selectie zonder andere slagen te verschuiven."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Rek het passend uit",
+        "intro": "Zoom in voor nauwkeurige edits. Rek de selectie uit zonder de toonhoogte te veranderen; de rest blijft staan.",
+        "tips": [
+          [
+            "Shift + slepen",
+            "Rek een selectierand uit."
+          ],
+          [
+            "⌘ / Alt",
+            "Verplaats zonder aan het raster vast te klikken."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Maak de laatste fragmentbewerking ongedaan."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Verplaats een hele slice",
+        "intro": "Sleep in Tab Recorder binnen het gebied van een pad om beide randen samen te verplaatsen. Met de schaar knip je in beide recorders de opname bij.",
+        "tips": [
+          [
+            "Space",
+            "Beluister de «KNIPPEN»-selectie."
+          ],
+          [
+            "Enter",
+            "Pas «KNIPPEN» toe."
+          ],
+          [
+            "Esc",
+            "Annuleer de bewerking."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Tik het tempo dat je hoort",
+        "intro": "Klik op het BPM-getal in een recorder. Tik het ritme op de knop of voer een tempo in.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Tik terwijl de knop «Tik tempo» geselecteerd is."
+          ],
+          [
+            "",
+            "Tab Recorder verandert snelheid en toonhoogte samen."
+          ],
+          [
+            "",
+            "Pad Recorder verandert tempo met behoud van toonhoogte."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Jouw bestanden, jouw drumkit",
+        "intro": "Laad je eigen geluiden op pads. Geïmporteerde pads spelen tegelijk: kicks, snares en hi-hats kunnen overlappen.",
+        "tips": [
+          [
+            "⋮",
+            "Open het padmenu om een geluid te laden of te kopiëren."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Bespeel je pads."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Extra pads in de horizontale weergave."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Bewaar de hele sessie",
+        "intro": "Sluit het popupvenster en blijf luisteren. Exporteer alle takes samen met opnames, chops en padgeluiden.",
+        "tips": [
+          [
+            "",
+            "Toonsoortschatting voor opnames en voltooide chops."
+          ],
+          [
+            "",
+            "Snellere pads. Natural als standaard; loopen bij vasthouden staat uit."
+          ],
+          [
+            "",
+            "Neem meer op in dezelfde take of begin opnieuw met «Alle tabbladen resetten»."
+          ]
+        ]
+      }
+    ],
+    "next": "Volgende",
+    "back": "Terug",
+    "pause": "Animatie pauzeren",
+    "play": "Animatie afspelen",
+    "badge": "NIEUWE UPDATE!!!",
+    "news": "Wat is er nieuw",
+    "demo": "In de editor",
+    "feedback": "Een idee voor de volgende update?",
+    "privacy": "Privacybeleid",
+    "restart": "Opnieuw beginnen"
+  },
+  "ru": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "Больше тейков — больше идей",
+        "intro": "У каждого тейка свои записи, пэды и чопы. Несколько тейков могут звучать вместе.",
+        "tips": [
+          [
+            "С такта",
+            "Пока играет другой чоп, «ИГРАТЬ» ждёт его следующего такта и запускает этот чоп с начала."
+          ],
+          [
+            "",
+            "Повторный «ИГРАТЬ» отменяет ожидающий запуск."
+          ],
+          [
+            "",
+            "«С такта» выравнивает вступление. Одинаковый BPM нужно выставить самостоятельно."
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "Ровный конец лупа",
+        "intro": "После STOP Pad Recorder обрезает тишину. Если звук закончился между долями, «Тишина +… с» предлагает заполнить хвост до следующей доли.",
+        "tips": [
+          [
+            "",
+            "Штриховка показывает недостающий хвост. Нажми «Тишина +… с», чтобы добавить его."
+          ],
+          [
+            "",
+            "При небольшом переборе выбери «Обрезать … с» в меню со стрелкой."
+          ],
+          [
+            "",
+            "Работает и без метронома. Звук меняется только после нажатия."
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "Двигай фрагменты чопа",
+        "intro": "Редактируй внутри Pad Recorder. Перетаскивай выделенный кусок в ритм; часть за краем записи обрежется.",
+        "tips": [
+          [
+            "Shift + клик",
+            "Поставь начало, затем кликни по концу."
+          ],
+          [
+            "",
+            "Тяни за середину выделения, чтобы его переместить."
+          ],
+          [
+            "Delete / Backspace",
+            "Удали выделение, сохранив положение других ударов."
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "Подгони фрагмент по длине",
+        "intro": "Приближай волну для точных правок. Растягивай выделенный кусок без изменения питча; остальное останется на месте.",
+        "tips": [
+          [
+            "Shift + перетаскивание",
+            "Растяни границу выделения."
+          ],
+          [
+            "⌘ / Alt",
+            "Двигай без привязки к сетке."
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "Отмени последнюю правку фрагмента."
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "Передвигай слайс целиком",
+        "intro": "В Tab Recorder тяни область слайса между границами — обе ручки сдвинутся вместе. Ножницы в обоих рекордерах обрезают запись.",
+        "tips": [
+          [
+            "Space",
+            "Прослушай выделение «ОБРЕЗАТЬ»."
+          ],
+          [
+            "Enter",
+            "Примени «ОБРЕЗАТЬ»."
+          ],
+          [
+            "Esc",
+            "Отмени редактирование."
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "Настучи нужный темп",
+        "intro": "Нажми число BPM в любом рекордере. Настучи ритм кнопкой или введи темп вручную.",
+        "tips": [
+          [
+            "Space / Enter",
+            "Настукивай, пока выбрана кнопка «Настучать BPM»."
+          ],
+          [
+            "",
+            "Tab Recorder меняет скорость вместе с высотой тона."
+          ],
+          [
+            "",
+            "Pad Recorder меняет темп, сохраняя высоту тона."
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "Твои файлы, твоя драм-машина",
+        "intro": "Загружай свои звуки на пэды. Загруженные пэды играют одновременно: кик, снейр и хэт не прерывают друг друга.",
+        "tips": [
+          [
+            "⋮",
+            "Загрузи или скопируй звук через меню пэда."
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "Играй на пэдах."
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "Дополнительный ряд в горизонтальном виде."
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "Сохрани всю сессию",
+        "intro": "Закрой окно — музыка продолжит играть. Экспортируй все тейки вместе: исходники, чопы и звуки пэдов.",
+        "tips": [
+          [
+            "",
+            "Определение тональности исходников и готовых чопов."
+          ],
+          [
+            "",
+            "Пэды быстрее. Natural по умолчанию; луп при удержании выключен."
+          ],
+          [
+            "",
+            "Дописать запись можно в тот же тейк. «Сбросить все вкладки» начинает чистую сессию."
+          ]
+        ]
+      }
+    ],
+    "next": "Далее",
+    "back": "Назад",
+    "pause": "Остановить анимацию",
+    "play": "Включить анимацию",
+    "badge": "НОВОЕ ОБНОВЛЕНИЕ!!!",
+    "news": "Что нового",
+    "demo": "В редакторе",
+    "feedback": "Есть идея для следующего обновления?",
+    "privacy": "Политика конфиденциальности",
+    "restart": "Сначала"
+  },
+  "zh_CN": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "更多片段，更多灵感",
+        "intro": "每个标签页独立保存录音、打击垫和成品片段。多个标签页可以同时播放。",
+        "tips": [
+          [
+            "按小节",
+            "其他片段播放时，«播放» 会等到它的下一小节，再从头播放当前片段。"
+          ],
+          [
+            "",
+            "再次按 «播放» 可取消等待中的启动。"
+          ],
+          [
+            "",
+            "«按小节» 只对齐开始时间，不会匹配速度。请自行设置相同的 BPM。"
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "让循环结尾更整齐",
+        "intro": "STOP 后，Pad Recorder 会裁去首尾静音。若声音结束在两拍之间，«补 … 秒静音» 会建议补静音至下一拍。",
+        "tips": [
+          [
+            "",
+            "斜线区域表示缺少的尾部。点击 «补 … 秒静音» 即可补上。"
+          ],
+          [
+            "",
+            "若尾部略长，可在箭头菜单中选择 «裁去 … 秒»。"
+          ],
+          [
+            "",
+            "关闭节拍器时也有效。点击前不会改变声音。"
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "移动片段中的任意部分",
+        "intro": "在 Pad Recorder 中编辑。拖动选区对齐节奏；超出录音边界的部分会被裁掉。",
+        "tips": [
+          [
+            "Shift + 点击",
+            "先设置起点，再点击终点。"
+          ],
+          [
+            "",
+            "拖动选区内部即可移动。"
+          ],
+          [
+            "Delete / Backspace",
+            "删除选区，不改变其他鼓点的位置。"
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "拉伸到合适的位置",
+        "intro": "放大波形精细编辑。拉伸选区而不改变音高，其余部分保持原位。",
+        "tips": [
+          [
+            "Shift + 拖动",
+            "拉伸选区边界。"
+          ],
+          [
+            "⌘ / Alt",
+            "移动时不吸附到网格。"
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "撤销上一次片段编辑。"
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "整体移动打击垫切片",
+        "intro": "在 Tab Recorder 中拖动打击垫波形区域内部，可同时移动两端边界。两个录音器中的剪刀都可裁剪录音。",
+        "tips": [
+          [
+            "Space",
+            "试听 «裁剪» 选区。"
+          ],
+          [
+            "Enter",
+            "应用 «裁剪» 裁剪。"
+          ],
+          [
+            "Esc",
+            "取消编辑。"
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "敲出你听到的速度",
+        "intro": "点击任一录音器的 BPM 数字。用按钮敲击节奏，或直接输入速度。",
+        "tips": [
+          [
+            "Space / Enter",
+            "选中 «点按测速» 按钮后即可敲击节奏。"
+          ],
+          [
+            "",
+            "Tab Recorder 同时改变播放速度与音高。"
+          ],
+          [
+            "",
+            "Pad Recorder 改变速度并保持音高。"
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "用自己的文件组鼓",
+        "intro": "将本地声音加载到打击垫。导入的打击垫可同时播放，底鼓、军鼓和踩镲互不打断。",
+        "tips": [
+          [
+            "⋮",
+            "打开打击垫菜单，加载或复制声音。"
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "演奏打击垫。"
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "横向视图有额外一排打击垫。"
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "保存整段创作",
+        "intro": "关闭弹窗，音乐继续播放。一次导出所有标签页，包含录音、成品片段和打击垫声音。",
+        "tips": [
+          [
+            "",
+            "估测原始录音和成品片段的调性。"
+          ],
+          [
+            "",
+            "打击垫响应更快。默认 Natural 模式，默认关闭按住循环。"
+          ],
+          [
+            "",
+            "可以继续录入同一条录音，或用 «重置所有标签页» 开始全新会话。"
+          ]
+        ]
+      }
+    ],
+    "next": "下一页",
+    "back": "上一页",
+    "pause": "暂停动画",
+    "play": "播放动画",
+    "badge": "新版本更新！！！",
+    "news": "更新内容",
+    "demo": "编辑器演示",
+    "feedback": "对下次更新有什么想法？",
+    "privacy": "隐私政策",
+    "restart": "重新开始"
+  },
+  "zh_TW": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "更多片段，更多靈感",
+        "intro": "每個分頁獨立儲存錄音、打擊墊和成品片段。多個分頁可以同時播放。",
+        "tips": [
+          [
+            "按小節",
+            "其他片段播放時，«播放» 會等到它的下一小節，再從頭播放目前片段。"
+          ],
+          [
+            "",
+            "再次按 «播放» 可取消等待中的啟動。"
+          ],
+          [
+            "",
+            "«按小節» 只對齊開始時間，不會匹配速度。請自行設定相同的 BPM。"
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "讓循環結尾更整齊",
+        "intro": "STOP 後，Pad Recorder 會裁去首尾靜音。若聲音結束在兩拍之間，«補 … 秒靜音» 會建議補靜音至下一拍。",
+        "tips": [
+          [
+            "",
+            "斜線區域表示缺少的尾部。點擊 «補 … 秒靜音» 即可補上。"
+          ],
+          [
+            "",
+            "若尾部略長，可在箭頭選單中選擇 «裁去 … 秒»。"
+          ],
+          [
+            "",
+            "關閉節拍器時也有效。點擊前不會改變聲音。"
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "移動片段中的任意部分",
+        "intro": "在 Pad Recorder 中編輯。拖曳選取範圍對齊節奏；超出錄音邊界的部分會被裁掉。",
+        "tips": [
+          [
+            "Shift + 點擊",
+            "先設定起點，再點擊終點。"
+          ],
+          [
+            "",
+            "拖曳選取範圍內部即可移動。"
+          ],
+          [
+            "Delete / Backspace",
+            "刪除選取範圍，不改變其他鼓點的位置。"
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "伸縮到合適的位置",
+        "intro": "放大波形精細編輯。伸縮選取範圍而不改變音高，其餘部分保持原位。",
+        "tips": [
+          [
+            "Shift + 拖曳",
+            "伸縮選取範圍邊界。"
+          ],
+          [
+            "⌘ / Alt",
+            "移動時不吸附至格線。"
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "復原上一次片段編輯。"
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "整體移動打擊墊切片",
+        "intro": "在 Tab Recorder 中拖曳打擊墊波形區域內部，可同時移動兩端邊界。兩個錄音器中的剪刀都可裁剪錄音。",
+        "tips": [
+          [
+            "Space",
+            "試聽 «裁切» 選取範圍。"
+          ],
+          [
+            "Enter",
+            "套用 «裁切» 裁剪。"
+          ],
+          [
+            "Esc",
+            "取消編輯。"
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "敲出你聽到的速度",
+        "intro": "點擊任一錄音器的 BPM 數字。用按鈕敲擊節奏，或直接輸入速度。",
+        "tips": [
+          [
+            "Space / Enter",
+            "選取 «點按測速» 按鈕後即可敲擊節奏。"
+          ],
+          [
+            "",
+            "Tab Recorder 同時改變播放速度與音高。"
+          ],
+          [
+            "",
+            "Pad Recorder 改變速度並保持音高。"
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "用自己的檔案組鼓",
+        "intro": "將本機聲音載入打擊墊。匯入的打擊墊可同時播放，大鼓、小鼓和腳踏鈸互不打斷。",
+        "tips": [
+          [
+            "⋮",
+            "開啟打擊墊選單，載入或複製聲音。"
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "演奏打擊墊。"
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "橫向檢視有額外一排打擊墊。"
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "儲存整段創作",
+        "intro": "關閉彈出視窗，音樂繼續播放。一次匯出所有分頁，包含錄音、成品片段和打擊墊聲音。",
+        "tips": [
+          [
+            "",
+            "估測原始錄音和成品片段的調性。"
+          ],
+          [
+            "",
+            "打擊墊反應更快。預設 Natural 模式，預設關閉按住循環。"
+          ],
+          [
+            "",
+            "可以繼續錄入同一段錄音，或用 «重設所有分頁» 開始全新工作階段。"
+          ]
+        ]
+      }
+    ],
+    "next": "下一頁",
+    "back": "上一頁",
+    "pause": "暫停動畫",
+    "play": "播放動畫",
+    "badge": "新版本更新！！！",
+    "news": "更新內容",
+    "demo": "編輯器示範",
+    "feedback": "對下次更新有什麼想法？",
+    "privacy": "隱私權政策",
+    "restart": "重新開始"
+  },
+  "zh_HK": {
+    "slides": [
+      {
+        "demo": "takes",
+        "title": "更多片段，更多靈感",
+        "intro": "每個分頁獨立儲存錄音、打擊墊和成品片段。多個分頁可以同時播放。",
+        "tips": [
+          [
+            "按小節",
+            "其他片段播放時，«播放» 會等到它的下一小節，再從頭播放目前片段。"
+          ],
+          [
+            "",
+            "再次按 «播放» 可取消等待中的啟動。"
+          ],
+          [
+            "",
+            "«按小節» 只對齊開始時間，不會匹配速度。請自行設定相同的 BPM。"
+          ]
+        ]
+      },
+      {
+        "demo": "silence",
+        "title": "讓循環結尾更整齊",
+        "intro": "STOP 後，Pad Recorder 會裁去首尾靜音。若聲音結束在兩拍之間，«補 … 秒靜音» 會建議補靜音至下一拍。",
+        "tips": [
+          [
+            "",
+            "斜線區域表示缺少的尾部。點擊 «補 … 秒靜音» 即可補上。"
+          ],
+          [
+            "",
+            "若尾部略長，可在箭頭選單中選擇 «剪去 … 秒»。"
+          ],
+          [
+            "",
+            "關閉節拍器時也有效。點擊前不會改變聲音。"
+          ]
+        ]
+      },
+      {
+        "demo": "move",
+        "title": "移動片段中的任意部分",
+        "intro": "在 Pad Recorder 中編輯。拖拉選取範圍對齊節奏；超出錄音邊界的部分會被裁掉。",
+        "tips": [
+          [
+            "Shift + 點擊",
+            "先設定起點，再點擊終點。"
+          ],
+          [
+            "",
+            "拖拉選取範圍內部即可移動。"
+          ],
+          [
+            "Delete / Backspace",
+            "刪除選取範圍，不改變其他鼓點的位置。"
+          ]
+        ]
+      },
+      {
+        "demo": "stretch",
+        "title": "伸縮到合適的位置",
+        "intro": "放大波形精細編輯。伸縮選取範圍而不改變音高，其餘部分保持原位。",
+        "tips": [
+          [
+            "Shift + 拖拉",
+            "伸縮選取範圍邊界。"
+          ],
+          [
+            "⌘ / Alt",
+            "移動時不吸附至格線。"
+          ],
+          [
+            "⌘ / Ctrl + Z",
+            "復原上一次片段編輯。"
+          ]
+        ]
+      },
+      {
+        "demo": "source-move",
+        "title": "整體移動打擊墊切片",
+        "intro": "在 Tab Recorder 中拖拉打擊墊波形區域內部，可同時移動兩端邊界。兩個錄音器中的剪刀都可裁剪錄音。",
+        "tips": [
+          [
+            "Space",
+            "試聽 «裁剪» 選取範圍。"
+          ],
+          [
+            "Enter",
+            "套用 «裁剪» 裁剪。"
+          ],
+          [
+            "Esc",
+            "取消編輯。"
+          ]
+        ]
+      },
+      {
+        "demo": "bpm",
+        "title": "敲出你聽到的速度",
+        "intro": "點擊任一錄音器的 BPM 數字。用按鈕敲擊節奏，或直接輸入速度。",
+        "tips": [
+          [
+            "Space / Enter",
+            "選取 «撳拍子測速» 按鈕後即可敲擊節奏。"
+          ],
+          [
+            "",
+            "Tab Recorder 同時改變播放速度與音高。"
+          ],
+          [
+            "",
+            "Pad Recorder 改變速度並保持音高。"
+          ]
+        ]
+      },
+      {
+        "demo": "drums",
+        "title": "用自己的檔案組鼓",
+        "intro": "將本機聲音載入打擊墊。匯入的打擊墊可同時播放，底鼓、軍鼓和踩鈸互不打斷。",
+        "tips": [
+          [
+            "⋮",
+            "開啟打擊墊選單，載入或複製聲音。"
+          ],
+          [
+            "QWER / ASDF / ZXCV",
+            "演奏打擊墊。"
+          ],
+          [
+            "1 / 2 / 3 / 4",
+            "橫向檢視有額外一排打擊墊。"
+          ]
+        ]
+      },
+      {
+        "demo": "export",
+        "title": "儲存整段創作",
+        "intro": "關閉彈出視窗，音樂繼續播放。一次匯出所有分頁，包含錄音、成品片段和打擊墊聲音。",
+        "tips": [
+          [
+            "",
+            "估測原始錄音和成品片段的調性。"
+          ],
+          [
+            "",
+            "打擊墊反應更快。預設 Natural 模式，預設關閉按住循環。"
+          ],
+          [
+            "",
+            "可以繼續錄入同一段錄音，或用 «重設所有分頁» 開始全新工作階段。"
+          ]
+        ]
+      }
+    ],
+    "next": "下一頁",
+    "back": "上一頁",
+    "pause": "暫停動畫",
+    "play": "播放動畫",
+    "badge": "新版本更新！！！",
+    "news": "最新功能",
+    "demo": "編輯器示範",
+    "feedback": "對下次更新有咩諗法？",
+    "privacy": "私隱政策",
+    "restart": "重新開始"
+  }
+}

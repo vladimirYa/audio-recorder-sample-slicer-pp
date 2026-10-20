@@ -4,7 +4,7 @@ const $ = selector => document.querySelector(selector);
 let content, locale, index = 0;
 let motion = !matchMedia('(prefers-reduced-motion: reduce)').matches;
 function image() {
-  $('#demo-image').src = `assets/${content[locale].slides[index].demo}.${motion && !document.hidden ? 'gif' : 'png'}`;
+  $('#demo-image').src = `assets/${content[locale].slides[index].demo}.${motion && !document.hidden ? 'gif' : 'png'}?v=2`;
   $('#motion').textContent = content[locale][motion ? 'pause' : 'play'];
   $('#motion').setAttribute('aria-pressed', String(motion));
 }
@@ -16,12 +16,13 @@ function render() {
   $('#title').textContent = slide.title;
   $('#intro').textContent = slide.intro;
   $('#badge').textContent = copy.badge;
-  $('#counter').textContent = `${String(index + 1).padStart(2, '0')} / 08`;
+  $('#counter').textContent = `${String(index + 1).padStart(2, '0')} / ${String(copy.slides.length).padStart(2, '0')}`;
   $('#back').textContent = `← ${copy.back}`;
-  $('#next').textContent = index === 7 ? `${copy.restart} ↺` : `${copy.next} →`;
+  $('#next').textContent = index === copy.slides.length - 1 ? `${copy.restart} ↺` : `${copy.next} →`;
   $('#back').disabled = index === 0;
   $('#section-name').textContent = slide.title;
   for (const node of document.querySelectorAll('[data-copy]')) node.textContent = copy[node.dataset.copy];
+  $('#chapters').style.setProperty('--chapter-count', copy.slides.length);
   $('#chapters').replaceChildren(...copy.slides.map((item, i) => {
     const button = document.createElement('button');
     button.type = 'button'; button.textContent = String(i + 1).padStart(2, '0');
@@ -39,9 +40,9 @@ function render() {
   url.searchParams.set('lang', locale); url.hash = slide.demo;
   history.replaceState(null, '', url);
 }
-function go(next) { index = Math.max(0, Math.min(7, next)); render(); }
+function go(next) { index = Math.max(0, Math.min(content[locale].slides.length - 1, next)); render(); }
 try {
-  const response = await fetch('./content.json');
+  const response = await fetch('./content.json?v=2');
   if (!response.ok) throw Error('Update content unavailable');
   content = await response.json();
   locale = resolveLocale(new URL(location.href).searchParams.get('lang') || navigator.language);
@@ -49,7 +50,7 @@ try {
   render();
   $('#language').addEventListener('change', event => { locale = event.target.value; render(); });
   $('#back').addEventListener('click', () => go(index - 1));
-  $('#next').addEventListener('click', () => go(index === 7 ? 0 : index + 1));
+  $('#next').addEventListener('click', () => go(index === content[locale].slides.length - 1 ? 0 : index + 1));
   $('#motion').addEventListener('click', () => { motion = !motion; image(); });
   document.addEventListener('visibilitychange', image);
   document.addEventListener('keydown', event => {

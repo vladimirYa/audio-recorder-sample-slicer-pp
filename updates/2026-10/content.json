@@ -133,25 +133,6 @@
             "Extra pads in horizontal view."
           ]
         ]
-      },
-      {
-        "demo": "export",
-        "title": "Keep the whole session",
-        "intro": "Close the popup and keep listening. Export all takes together, including their recordings, chops and pad sounds.",
-        "tips": [
-          [
-            "",
-            "Key estimates for recordings and finished chops."
-          ],
-          [
-            "",
-            "Faster pads. Natural pitch by default; held looping starts off."
-          ],
-          [
-            "",
-            "Record more into a take, or use Reset all tabs for a fresh session."
-          ]
-        ]
       }
     ],
     "next": "Next",
@@ -297,25 +278,6 @@
           [
             "1 / 2 / 3 / 4",
             "Pads extra en la vista horizontal."
-          ]
-        ]
-      },
-      {
-        "demo": "export",
-        "title": "Conserva toda la sesión",
-        "intro": "Cierra la ventana y sigue escuchando. Exporta todas las tomas juntas, con sus grabaciones, chops y sonidos de pads.",
-        "tips": [
-          [
-            "",
-            "Estimación de tonalidad en grabaciones y chops terminados."
-          ],
-          [
-            "",
-            "Pads más rápidos. Tono Natural por defecto; loop al mantener desactivado."
-          ],
-          [
-            "",
-            "Añade más audio a una toma o usa «Restablecer todas las pestañas» para empezar de cero."
           ]
         ]
       }
@@ -465,25 +427,6 @@
             "Pads extra en la vista horizontal."
           ]
         ]
-      },
-      {
-        "demo": "export",
-        "title": "Conserva toda la sesión",
-        "intro": "Cierra la ventana y sigue escuchando. Exporta todas las tomas juntas, con sus grabaciones, chops y sonidos de pads.",
-        "tips": [
-          [
-            "",
-            "Estimación de tonalidad en grabaciones y chops terminados."
-          ],
-          [
-            "",
-            "Pads más rápidos. Tono Natural por defecto; loop al mantener desactivado."
-          ],
-          [
-            "",
-            "Añade más audio a una toma o usa «Restablecer todas las pestañas» para empezar de cero."
-          ]
-        ]
       }
     ],
     "next": "Siguiente",
@@ -629,25 +572,6 @@
           [
             "1 / 2 / 3 / 4",
             "Pads extras na visualização horizontal."
-          ]
-        ]
-      },
-      {
-        "demo": "export",
-        "title": "Guarde a sessão inteira",
-        "intro": "Feche a janela e continue ouvindo. Exporte todos os takes juntos, com gravações, chops e sons dos pads.",
-        "tips": [
-          [
-            "",
-            "Estimativa de tonalidade em gravações e chops prontos."
-          ],
-          [
-            "",
-            "Pads mais rápidos. Natural por padrão; loop ao segurar desativado."
-          ],
-          [
-            "",
-            "Grave mais na mesma tomada ou use «Redefinir todas as abas» para começar do zero."
           ]
         ]
       }
@@ -797,25 +721,6 @@
             "Pads extra na vista horizontal."
           ]
         ]
-      },
-      {
-        "demo": "export",
-        "title": "Guarda a sessão inteira",
-        "intro": "Fecha a janela e continua a ouvir. Exporta todos os takes juntos, com gravações, chops e sons dos pads.",
-        "tips": [
-          [
-            "",
-            "Estimativa da tonalidade de gravações e chops prontos."
-          ],
-          [
-            "",
-            "Pads mais rápidos. Natural por predefinição; loop ao manter premido desativado."
-          ],
-          [
-            "",
-            "Grava mais no mesmo take ou usa «Repor todos os separadores» para começar do zero."
-          ]
-        ]
       }
     ],
     "next": "Seguinte",
@@ -961,25 +866,6 @@
           [
             "1 / 2 / 3 / 4",
             "Pads supplémentaires en vue horizontale."
-          ]
-        ]
-      },
-      {
-        "demo": "export",
-        "title": "Gardez toute la session",
-        "intro": "Fermez la fenêtre et continuez à écouter. Exportez toutes les prises ensemble : enregistrements, chops et sons des pads.",
-        "tips": [
-          [
-            "",
-            "Estimation de tonalité des enregistrements et chops terminés."
-          ],
-          [
-            "",
-            "Pads plus rapides. Mode Natural par défaut ; boucle au maintien désactivée."
-          ],
-          [
-            "",
-            "Ajoute du son à une prise ou utilise «Réinitialiser tous les onglets» pour repartir de zéro."
           ]
         ]
       }
@@ -1129,25 +1015,6 @@
             "Zusätzliche Pads in der horizontalen Ansicht."
           ]
         ]
-      },
-      {
-        "demo": "export",
-        "title": "Behalte die ganze Session",
-        "intro": "Schließe das Popup und höre weiter. Exportiere alle Takes zusammen: Aufnahmen, Chops und Pad-Sounds.",
-        "tips": [
-          [
-            "",
-            "Tonartschätzung für Aufnahmen und fertige Chops."
-          ],
-          [
-            "",
-            "Schnellere Pads. Natural als Standard; Halte-Loop zunächst aus."
-          ],
-          [
-            "",
-            "Nimm mehr in einem Take auf oder starte mit «Alle Tabs zurücksetzen» eine leere Session."
-          ]
-        ]
       }
     ],
     "next": "Weiter",
@@ -1293,25 +1160,6 @@
           [
             "1 / 2 / 3 / 4",
             "Pad aggiuntivi nella vista orizzontale."
-          ]
-        ]
-      },
-      {
-        "demo": "export",
-        "title": "Conserva tutta la sessione",
-        "intro": "Chiudi il popup e continua ad ascoltare. Esporta tutti i take insieme, con registrazioni, chop e suoni dei pad.",
-        "tips": [
-          [
-            "",
-            "Stima della tonalità di registrazioni e chop finiti."
-          ],
-          [
-            "",
-            "Pad più rapidi. Natural predefinito; loop tenendo premuto disattivato."
-          ],
-          [
-            "",
-            "Aggiungi audio a una take o usa «Reimposta tutte le schede» per ricominciare da zero."
           ]
         ]
       }
@@ -1461,25 +1309,6 @@
             "Dodatkowe pady w widoku poziomym."
           ]
         ]
-      },
-      {
-        "demo": "export",
-        "title": "Zachowaj całą sesję",
-        "intro": "Zamknij okno i słuchaj dalej. Eksportuj wszystkie ujęcia razem z nagraniami, chopami i dźwiękami padów.",
-        "tips": [
-          [
-            "",
-            "Szacowanie tonacji nagrań i gotowych chopów."
-          ],
-          [
-            "",
-            "Szybsze pady. Domyślny tryb Natural; pętla przy przytrzymaniu wyłączona."
-          ],
-          [
-            "",
-            "Dograj więcej do take’a lub użyj «Zresetuj wszystkie karty», aby zacząć od nowa."
-          ]
-        ]
       }
     ],
     "next": "Dalej",
@@ -1625,25 +1454,6 @@
           [
             "1 / 2 / 3 / 4",
             "Extra pads in de horizontale weergave."
-          ]
-        ]
-      },
-      {
-        "demo": "export",
-        "title": "Bewaar de hele sessie",
-        "intro": "Sluit het popupvenster en blijf luisteren. Exporteer alle takes samen met opnames, chops en padgeluiden.",
-        "tips": [
-          [
-            "",
-            "Toonsoortschatting voor opnames en voltooide chops."
-          ],
-          [
-            "",
-            "Snellere pads. Natural als standaard; loopen bij vasthouden staat uit."
-          ],
-          [
-            "",
-            "Neem meer op in dezelfde take of begin opnieuw met «Alle tabbladen resetten»."
           ]
         ]
       }
@@ -1793,25 +1603,6 @@
             "Дополнительный ряд в горизонтальном виде."
           ]
         ]
-      },
-      {
-        "demo": "export",
-        "title": "Сохрани всю сессию",
-        "intro": "Закрой окно — музыка продолжит играть. Экспортируй все тейки вместе: исходники, чопы и звуки пэдов.",
-        "tips": [
-          [
-            "",
-            "Определение тональности исходников и готовых чопов."
-          ],
-          [
-            "",
-            "Пэды быстрее. Natural по умолчанию; луп при удержании выключен."
-          ],
-          [
-            "",
-            "Дописать запись можно в тот же тейк. «Сбросить все вкладки» начинает чистую сессию."
-          ]
-        ]
       }
     ],
     "next": "Далее",
@@ -1957,25 +1748,6 @@
           [
             "1 / 2 / 3 / 4",
             "横向视图有额外一排打击垫。"
-          ]
-        ]
-      },
-      {
-        "demo": "export",
-        "title": "保存整段创作",
-        "intro": "关闭弹窗，音乐继续播放。一次导出所有标签页，包含录音、成品片段和打击垫声音。",
-        "tips": [
-          [
-            "",
-            "估测原始录音和成品片段的调性。"
-          ],
-          [
-            "",
-            "打击垫响应更快。默认 Natural 模式，默认关闭按住循环。"
-          ],
-          [
-            "",
-            "可以继续录入同一条录音，或用 «重置所有标签页» 开始全新会话。"
           ]
         ]
       }
@@ -2125,25 +1897,6 @@
             "橫向檢視有額外一排打擊墊。"
           ]
         ]
-      },
-      {
-        "demo": "export",
-        "title": "儲存整段創作",
-        "intro": "關閉彈出視窗，音樂繼續播放。一次匯出所有分頁，包含錄音、成品片段和打擊墊聲音。",
-        "tips": [
-          [
-            "",
-            "估測原始錄音和成品片段的調性。"
-          ],
-          [
-            "",
-            "打擊墊反應更快。預設 Natural 模式，預設關閉按住循環。"
-          ],
-          [
-            "",
-            "可以繼續錄入同一段錄音，或用 «重設所有分頁» 開始全新工作階段。"
-          ]
-        ]
       }
     ],
     "next": "下一頁",
@@ -2289,25 +2042,6 @@
           [
             "1 / 2 / 3 / 4",
             "橫向檢視有額外一排打擊墊。"
-          ]
-        ]
-      },
-      {
-        "demo": "export",
-        "title": "儲存整段創作",
-        "intro": "關閉彈出視窗，音樂繼續播放。一次匯出所有分頁，包含錄音、成品片段和打擊墊聲音。",
-        "tips": [
-          [
-            "",
-            "估測原始錄音和成品片段的調性。"
-          ],
-          [
-            "",
-            "打擊墊反應更快。預設 Natural 模式，預設關閉按住循環。"
-          ],
-          [
-            "",
-            "可以繼續錄入同一段錄音，或用 «重設所有分頁» 開始全新工作階段。"
           ]
         ]
       }
